@@ -18,3 +18,4 @@ python main.py
 ## Referencia
 
 Van der Maaten, L. (2014). *Accelerating t-SNE using Tree-Based Algorithms*. Journal of Machine Learning Research.
+Van der Maaten, L. (2013). Barnes-Hut-SNE. arXiv
